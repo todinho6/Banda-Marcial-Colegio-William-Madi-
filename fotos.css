@@ -1,0 +1,77 @@
+header {
+	background: #3D5467;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 1150px;
+	margin: 0 auto;
+}
+
+.logo {
+	width: 10%;
+}
+
+nav {
+	position: absolute;
+	top: 50px;
+	right: 0px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+.fotos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.fotos-esquerda{
+    max-width: 500px;
+    border-radius: 50px;
+	box-shadow: 0 0 1em black;
+    display: inline-block;
+    margin-left: 140px;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.fotos-direita{
+    max-width: 500px;
+    border-radius: 50px;
+	box-shadow: 0 0 1em black;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+footer {
+	text-align: center;
+	background: #3D5467;
+	padding: 20px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
